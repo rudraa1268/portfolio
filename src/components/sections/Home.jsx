@@ -27,7 +27,7 @@ export const Home = () => {
             </h1>
             <p className="text-[#9a988f] text-lg mb-8 max-w-lg border-l-2 border-[#f5a623]/40 pl-4">
               Backend-leaning full-stack developer. I build with Python, Django,
-              DRF, and React — currently at Curiosity Labs, actively looking for
+              DRF, and React - currently at Curiosity Labs, actively looking for
               SDE roles where I can ship real products.
               <span className="text-[#f5a623] animate-blink ml-1">|</span>
             </p>
